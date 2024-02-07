@@ -18,7 +18,7 @@ I'm an aspiring software developer currently diving deep into the world of codin
 - Any exciting project that can benefit from my growing skill set.
 
 ## 🤝 How to Reach Me
-- **Email:** marcus.crawford@example.com
+- **Email:** marcuscrawford91@gmail.com
 - **LinkedIn:** [Marcus Crawford](https://www.linkedin.com/in/marcus-crawford-8558b3132/)
 - **GitHub:** [@MarcusCrawford]([https://github.com/MarcusCrawford](https://github.com/Marcus3278/)) (Feel free to check out my repositories and let's connect!)
 
@@ -37,4 +37,4 @@ When I'm not coding, you'll find me exploring the great outdoors. Hiking, biking
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
-## 🌟 Let's make something awesome together!
+## 🌟 Let's push the digital frontier together!
