@@ -27,6 +27,6 @@ When I'm not coding, you'll find me exploring the great outdoors. Hiking, biking
 
 ---
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusCrawford&show_icons=true&theme=vue)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
 ## 🌟 Let's make something awesome together!
