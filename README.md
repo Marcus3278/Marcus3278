@@ -20,7 +20,7 @@ I'm an aspiring software developer currently diving deep into the world of codin
 ## 🤝 How to Reach Me
 - **Email:** marcuscrawford91@gmail.com
 - **LinkedIn:** [Marcus Crawford](https://www.linkedin.com/in/marcus-crawford-8558b3132/)
-- **GitHub:** [@MarcusCrawford]([https://github.com/MarcusCrawford](https://github.com/Marcus3278/)) (Feel free to check out my repositories and let's connect!)
+- **GitHub:** [@MarcusCrawford](https://github.com/Marcus3278) (Feel free to check out my repositories and let's connect!)
 
 ## ⚡ Fun Fact
 When I'm not coding, you'll find me exploring the great outdoors. Hiking, biking, or simply enjoying nature, I believe in balancing screen time with green time!
